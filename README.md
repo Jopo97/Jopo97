@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on implementing a Python CLI version of my C++ Multi-Threaded Password Cracker<br>🌱 I’m always looking for new projects and to learn new skills<br>💬 Ask me about malware analysis, digital forensics and scripting<br>⚡
+🔭 Currently working on implementing a Python CLI version of my C++ Multi-Threaded Password Cracker<br>🌱 I’m always looking for new projects and to learn new skills<br>💬 Ask me about malware analysis, digital forensics and scripting<br>
 
 
 ## 🌐 Socials:
